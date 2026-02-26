@@ -2,6 +2,14 @@
 
 **[点击阅读原文](https://t.arae.cc/p/25804.html)**
 
+--- 
+
+**[MayeLite已停止开发，请移步到MayeNano](https://t.arae.cc/p-25933/)**
+
+[将 MayeLite 的项目配置迁移到 Maye Nano](https://t.arae.cc/p-25933/#ToMayeNano)
+
+---
+
 
 **Maye Lite**是一个专注于文件快速启动的简洁、轻量级工具。它的功能主要集中在提供高效的文件启动体验，而不涉及其他复杂的功能。Maye Lite的设计理念是简单易用，不会产生垃圾文件，以绿色无污染的方式提升Windows操作体验。
 
@@ -73,10 +81,13 @@ _最新版本界面可能与截图有出入。_
 
 ### QQ群
 
-* <kbd>588516128</kbd> <kbd><font color="#FE7E40">将满</font></kbd>
-* <kbd>588183137</kbd> <kbd><font color="#FE7E40">将满</font></kbd>
-* <kbd>588046177</kbd> <kbd><font color="red">满</font></kbd>
-* <kbd>579798599</kbd> <kbd><font color="#2CBE4E">新</font></kbd>
+* <kbd>588516128</kbd> <kbd>满</kbd>
+* <kbd>588183137</kbd> <kbd>满</kbd>
+* <kbd>588046177</kbd> <kbd>满</kbd>
+* <kbd>579798599</kbd> <kbd>满</kbd>
+* <kbd>579800327</kbd> <kbd>新</kbd>
+* <kbd>579338221</kbd> <kbd>新</kbd>
+* <kbd>579799808</kbd> <kbd>新</kbd>
 
 
 ### 微信群

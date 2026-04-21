@@ -4,9 +4,11 @@
 
 --- 
 
-**[MayeLite已停止开发，请移步到MayeNano](https://t.arae.cc/p-25933/)**
-
-[将 MayeLite 的项目配置迁移到 Maye Nano](https://t.arae.cc/p-25933/#ToMayeNano)
+> [!IMPORTANT]
+> 
+> **[MayeLite已停止开发，请移步到MayeNano](https://t.arae.cc/p-25933/)**
+> 
+> [将 MayeLite 的项目配置迁移到 Maye Nano](https://t.arae.cc/p-25933/#ToMayeNano)
 
 ---
 
